@@ -1,10 +1,12 @@
-# web-fundamentals-lab
+# Web FullStack Fundamentals Lab
 
-a hands‑on repository of modular exercises covering core front‑end skills—from HTML semantics and CSS layouts (Flexbox, Grid, selectors) to JavaScript essentials (deep vs. shallow copy, this binding, prototype chain).
+> For deeper understanding and exploration of hands-on fullstack implementation, coding daily and daily is fundamentals always.
+
+A hands‑on repository of modular exercises covering core front‑end skills—from HTML semantics and CSS layouts (Flexbox, Grid, selectors) to JavaScript essentials (deep vs. shallow copy, this binding, prototype chain).
 
 ## ES6
 
-- [ ] var let const 区别
+- [ ] var let const
 - [ ] Array
 - [ ] Function
 - [ ] Objects
